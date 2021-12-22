@@ -1,4 +1,4 @@
-# POSPos Management system
+# POS Management system
 
 Help you to Management you inventory and Help you make 
 bill
